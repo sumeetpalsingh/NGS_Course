@@ -1,4 +1,4 @@
-# NGS_Course
+# NGS Course
 Course on analysis of NGS data (RNA-Seq. and ATAC-Seq.) using [Galaxy](https://usegalaxy.eu/).
 
 A good command on basic R is good, but not necessary. The course can be followed with zero prior knowledge of R or any bioinformatics tool.
