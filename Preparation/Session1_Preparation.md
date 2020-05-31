@@ -11,7 +11,7 @@ For users in Australia, register at [https://usegalaxy.org.au/](https://usegalax
 
 For the remainder of the course, useGalaxy will refer to the website of your choice. 
 
-After registering for Galaxy, you will receive a validation email. Activate the registration by following the steps specified in the validation email.
+After registering for useGalaxy, you will receive a validation email. Activate the registration by following the steps specified in the validation email.
 
 ## Step 2: Install FTP Client
 
