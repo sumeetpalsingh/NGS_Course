@@ -17,14 +17,10 @@ After registering for useGalaxy, you will receive a validation email. Activate t
 
 For uploading large data to Galaxy, it is suggested to use FTP. For this, an FTP client is needed. One such tool is [FileZilla](https://filezilla-project.org/download.php). 
 
-Download and install FileZilla or any other [FTP client](https://en.wikipedia.org/wiki/Comparison_of_FTP_client_software). 
+Download and install [FileZilla](https://filezilla-project.org/download.php) or any other [FTP client](https://en.wikipedia.org/wiki/Comparison_of_FTP_client_software). 
 
-## Step 3: Start RStudio and test your installation
+## Step 3: Download Raw Data 
 
-Start RStudio on your computer. You should see a screen like the one below:
-![alt text](https://github.com/sumeetpalsingh/R_course/blob/master/images/RStudio%20Start.png "RStudio Start Screen")
 
-You will see the version of R that is installed in the lower left block. 
-In the image above, it says: R version 3.6.1 (2019-07-05) -- "Action of the Toes"
 
-With this, you are ready to dive into the entertaining world of R programming!
+With this, you are ready to dive into the entertaining world of NGS Analysis!
