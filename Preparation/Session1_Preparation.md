@@ -21,6 +21,6 @@ Download and install [FileZilla](https://filezilla-project.org/download.php) or 
 
 ## Step 3: Download Raw Data 
 
-For first session, we will map data from zebrafish. Download the raw data from [here](https://github.com/sumeetpalsingh/NGS_Course/raw/master/Data/Zebrafish.fastq.gz)
+For first session, we will map data from zebrafish. Download the raw data from [here](https://github.com/sumeetpalsingh/NGS_Course/raw/master/Data/Zebrafish.fastq.gz). You would obtain a file named Zebrafish.fastq.gz.
 
 With this, you are ready to dive into the entertaining world of NGS Analysis!
