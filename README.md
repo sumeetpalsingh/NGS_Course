@@ -1,5 +1,7 @@
 # Introductory NGS course, June 2020
 
+Details about the course: https://github.com/sumeetpalsingh/NGS_Course/blob/master/INFO.md
+
 #### YouTube Playlist for the course: https://www.youtube.com/playlist?list=PLb6xuk42G5nx-b_h4T3iPy118rfVgw7c0
 
 ##### Organization of Github Directory
