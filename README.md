@@ -2,6 +2,8 @@
 
 Details about the course: https://github.com/sumeetpalsingh/NGS_Course/blob/master/INFO.md
 
+Course in memory of [James Taylor (1979-2020)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02016-0), co-creator of Galaxy and an inspiration to the Open Science commitment. 
+
 #### YouTube Playlist for the course: https://www.youtube.com/playlist?list=PLb6xuk42G5nx-b_h4T3iPy118rfVgw7c0
 
 ##### Organization of Github Directory
