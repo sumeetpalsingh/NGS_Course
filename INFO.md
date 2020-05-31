@@ -13,4 +13,3 @@ A good command on basic R is good, but not necessary. The course can be followed
 7. Interrogating ATAC-Seq. data for peaks, tf binding sites, enriched motifs (possibility with Galaxy not tested. May need R) 
 
 As multiple steps in RNA-Seq. and ATAC-Seq. are time consuming, the entire course will not occur live. For time consuming steps, we will use **'Flipped Classroom'** principles. The sessions with all the steps will be recorded in advance. You would need to go through the session and execute the steps by yourself. Afterwards, we will have live sessions / Zoom meetings to discuss issues and go into details.
-
