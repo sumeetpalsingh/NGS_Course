@@ -20,7 +20,7 @@ Course in memory of [James Taylor (1979-2020)](https://genomebiology.biomedcentr
 ### Upcoming sessions
 
 #### Session 1: Introduction to Galaxy and NGS Data Structures
-#### Thursday, 04 June, 2020. 5 PM Brussels Time (GMT +2) (**See time for your zone below**).
+#### Friday, 05 June, 2020. 5 PM Brussels Time (GMT +2) (**See time for your zone below**).
 YouTube link (can access from the playlist link mentioned above, or): https://youtu.be/-aWxyCokSbM
 ***
 Country/Zone | Time
