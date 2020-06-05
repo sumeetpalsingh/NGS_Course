@@ -23,6 +23,14 @@ Course in memory of [James Taylor (1979-2020)](https://genomebiology.biomedcentr
 #### Friday, 05 June, 2020. 5 PM Brussels Time (GMT +2) (**See time for your zone below**).
 YouTube link (can access from the playlist link mentioned above, or): https://youtu.be/-aWxyCokSbM
 ***
+#### Session 2: RNA-Seq. Analysis
+#### Thursday, 18 June, 2020. 5 PM Brussels Time (GMT +2) (**See time for your zone below**).
+YouTube link (can access from the playlist link mentioned above, or): https://youtu.be/19sxValzwww
+***
+#### Session 3: ATAC-Seq. Analysis
+#### Thursday, 25 June, 2020. 5 PM Brussels Time (GMT +2) (**See time for your zone below**).
+YouTube link (can access from the playlist link mentioned above, or): https://youtu.be/EICqPXcifxc
+***
 Country/Zone | Time
 --------|------
 Germany | 5 PM
