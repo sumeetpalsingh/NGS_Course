@@ -15,9 +15,11 @@ After registering for useGalaxy, you will receive a validation email. Activate t
 
 ## Step 2: Install FTP Client
 
-For uploading large data to Galaxy, it is suggested to use FTP. For this, an FTP client is needed. One such tool is [FileZilla](https://filezilla-project.org/download.php). 
+For uploading large data to Galaxy, it is suggested to use FTP. For this, an FTP client is needed. One such tool is [Cyberduck](https://cyberduck.io/download/). 
 
-Download and install [FileZilla](https://filezilla-project.org/download.php) or any other [FTP client](https://en.wikipedia.org/wiki/Comparison_of_FTP_client_software). 
+Download and install [Cyberduck](https://cyberduck.io/download/) or any other [FTP client](https://en.wikipedia.org/wiki/Comparison_of_FTP_client_software). 
+
+Note: If you are using Windows, avoid installing FileZilla. It contains Adware / Malware. 
 
 ## Step 3: Download Raw Data 
 
