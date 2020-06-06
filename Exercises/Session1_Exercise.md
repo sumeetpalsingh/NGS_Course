@@ -13,4 +13,6 @@ Notes:
   + Mouse: http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/genes/
   + Human: http://hgdownload.soe.ucsc.edu/goldenPath/mm10/bigZips/genes/
   
+After mapping, you should be able to see counts for some genes.
+
 Good luck!
