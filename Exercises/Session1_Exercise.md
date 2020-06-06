@@ -10,7 +10,7 @@ Notes:
 
 1. While mapping, choose the appropriate genome (mm10 for mouse and hg38 for Human)
 2. While read counting, use the corresponding transcriptomes from USCS:
-  1. Mouse: http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/genes/
-  2. Human: http://hgdownload.soe.ucsc.edu/goldenPath/mm10/bigZips/genes/
+  + Mouse: http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/genes/
+  + Human: http://hgdownload.soe.ucsc.edu/goldenPath/mm10/bigZips/genes/
   
 Good luck!
