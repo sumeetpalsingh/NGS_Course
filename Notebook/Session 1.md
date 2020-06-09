@@ -13,7 +13,7 @@
  - Develop Galaxy workflows for new analysis and pipeline : **automation**
  - Analysis of bulk RNA-seq and bulk ATAC-seq from Illumina platform
 
-# File type in NGS
+# File type and procession in NGS dataset
 
 ## Raw data
 
@@ -21,4 +21,11 @@
   - Composed of header and sequence
   - Few giga-bytes of files
 
- 
+ 2. Trimming of fastq based on the quality
+  - To trim out the regions which have low quality
+  - K-mers : lack of complexity after trimming due to the lack of adapter info
+  - Average of length will be changed and some could be shorter than sequenced length
+
+## Mapping to the genome
+ - Using HISAT2 : put trimmed fastq files
+ - Reference genome : **Have to use UCSC, built-in genome** because galaxy is connected to UCSC. **The genome and transcriptome information from UCSC and Ensembl are totally different**!!
