@@ -8,14 +8,14 @@ Step 1: Get the data to Galaxy
 
 Upload the raw data from Session 2 Preparation to Galaxy. Upload via FTP client.  
 
-Also, upload the (zebrafish transcriptome file downloaded from UCSC)[http://hgdownload.soe.ucsc.edu/goldenPath/danRer11/bigZips/genes/]
+Also, upload the [zebrafish transcriptome file downloaded from UCSC](http://hgdownload.soe.ucsc.edu/goldenPath/danRer11/bigZips/genes/)
 
 Step 2: Generate a collection
 ----------
 
 1. Click on the tick mark in the History panel that says 'Operations on multiple datasets' and select all the raw data files (Select All, and remove the section from gtf file).
 
-[!Tick](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/Tick.png)
+![Tick](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/Tick.png)
 
 2. Click on 'For all selected', and choose the option 'Build Lists of Dataset Pairs'
 
