@@ -13,7 +13,7 @@ Also, upload the [zebrafish transcriptome file downloaded from UCSC](http://hgdo
 Step 2: Generate a collection
 ----------
 
-1. Click on the tick mark in the History panel that says 'Operations on multiple datasets' and select all the raw data files (Select All, and remove the section from gtf file).
+1. Click on the tick mark in the History panel that says 'Operations on multiple datasets' and select all the raw data files (Select 'All', and remove the selection from gtf file).
 
 ![Tick](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/Tick.png)
 
