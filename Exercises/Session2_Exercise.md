@@ -19,11 +19,19 @@ Step 2: Generate a collection
 
 2. Click on 'For all selected', and choose the option 'Build Lists of Dataset Pairs'
 
+![Build](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/BuildList.png)
+
 3. In the new pop-up window you will see that the files are incorrectly paired. Click on 'unpair all' to remove the pairing.
+
+![WrongPair](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/WrongPair.png)
 
 4. Relace '_1' and '_2' with '_R1' and '_R2'. These define the pairing between raw data files. Press 'Auto Pair'.
 
+![CorrectPair](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/CorrectPair.png)
+
 5. At the bottom, enter the name of the collection (Example:'Experiment'), and 'Create list'.
+
+![Name](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/Name.png)
 
 Step 3: Mapping
 ----------
