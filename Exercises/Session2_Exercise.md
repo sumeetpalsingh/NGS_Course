@@ -15,7 +15,7 @@ Step 2: Generate a collection
 
 1. Click on the tick mark in the History panel that says 'Operations on multiple datasets' and select all the raw data files (Select 'All', and remove the selection from gtf file).
 
-![Tick](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/Tick.png)
+![Tick](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/Tick.png)
 
 2. Click on 'For all selected', and choose the option 'Build Lists of Dataset Pairs'
 
