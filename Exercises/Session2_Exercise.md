@@ -62,11 +62,11 @@ Step 5: Generate count matrix
 -------
 
 Generate a single file with all the counts aggregated
-1. In the Tools panel, select 'Join, Subtract and Group'. Choose 'Column Join on Collections'
+1. In the Tools panel, select '**Join, Subtract and Group**'. Choose '**Column Join** on Collections'
 
 ![Join](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/Join.png)
 
-2. Select 'Tabular Data': 'Dataset collections': 'htseq-count on collection'
+2. Select '**Tabular files**': 'Dataset collections': 'htseq-count on collection'
 
 ![Tabular](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/Tabular.png)
 
@@ -87,7 +87,35 @@ For DGE we will use EdgeR. Search for 'edgeR' in tool panel and select the tool.
 
 Run the tool with following parameters:
 
-1. Count Files or Matrix?: Single Count Matrix
+1. **Count Files or Matrix?**: Single Count Matrix
+2. **Count Matrix**: Column Join on data ..
+![input](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/input.png)
+3. Factor
+  + 1: Factor (Here we define the contrast that we are interested in)
+    + **Factor Name**: Treatment
+    + **Groups**: Treat,Control,Control,Treat (NOTE: the order of groups should match your count matrix!!!)
+
+![factor](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/factor.png)
+
+4. Contrast
+  + **Contrast of Interest**: Treat-Control (Should match the names of Groups mentioned above)
+
+![contrast](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/contrast.png)
+
+This will give you results in html format.
 
 
-Good luck
+Step 7: Remove Batch Effect (Self-exercise)
+--------
+
+Remove batch effects from DGE. This can be done by specifying an additional Factor level (read the **What it does** text in EdgeR tool (scroll down after selecting the tool)).
+
+Add a second factor level after the first one (which defines the treatment)
+
+**2: Factor** (Here we define the contrast we are **not** interested in)
+  + **Factor Name**: Batch
+  + **Groups**: Batch2,Batch1,Batch2,Batch1 (NOTE: the order of groups should match your count matrix!!!)
+
+![factor2](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/factor2.png)
+
+Good luck!
