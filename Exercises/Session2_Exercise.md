@@ -58,4 +58,36 @@ Run htseq-count with the following parameters.
 
 ![Count](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/Count.png)
 
+Step 5: Generate count matrix
+-------
+
+Generate a single file with all the counts aggregated
+1. In the Tools panel, select 'Join, Subtract and Group'. Choose 'Column Join on Collections'
+
+![Join](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/Join.png)
+
+2. Select 'Tabular Data': 'Dataset collections': 'htseq-count on collection'
+
+![Tabular](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/Tabular.png)
+
+3. You will get a single count table with counts from all datasets.
+
+![matrix](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/matrix.png)
+
+4. Click on the eye button 'View data' to view the matrix
+
+![matrix2](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/matrix2.png)
+
+Step 6: Differential Gene Expression (DGE) Analysis
+--------
+
+For DGE we will use EdgeR. Search for 'edgeR' in tool panel and select the tool.
+
+![edgeR](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/edgeR.png)
+
+Run the tool with following parameters:
+
+1. Count Files or Matrix?: Single Count Matrix
+
+
 Good luck
