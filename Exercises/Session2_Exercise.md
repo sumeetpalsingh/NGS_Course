@@ -50,6 +50,12 @@ Run Hisat2 with the following parameters.
 Step 4: Read counting
 --------
 
+Run htseq-count with the following parameters.
+1. Aligned SAM/BAM File: Dataset Collection
+  + HISAT2 on collection: aligned reads (BAM)
+2. GFF file: danRer11.refGene.gtf.gz
+3. Stranded: 'No'
 
+![Count](https://github.com/sumeetpalsingh/NGS_Course/blob/master/images/exercise2/Count.png)
 
 Good luck
