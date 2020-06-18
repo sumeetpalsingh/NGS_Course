@@ -14,6 +14,8 @@ Course in memory of [James Taylor (1979-2020)](https://genomebiology.biomedcentr
 
 - ***Exercises*** contains **practice assignments** for each session.
 
+- ***Notebook*** contains **session notes** by Yura Song.
+
 - ***Presentations*** contains **slides** for each session. Click on link provided to view the html files (Github does not directly render .html files).
 
 ***
