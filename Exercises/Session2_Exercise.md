@@ -23,10 +23,24 @@ Step 2: Generate a collection
 
 4. Relace '_1' and '_2' with '_R1' and '_R2'. These define the pairing between raw data files. Press 'Auto Pair'.
 
-5. At the bottom, enter the name of the collectio (Example:'Experiment'), and create the list.
+5. At the bottom, enter the name of the collection (Example:'Experiment'), and 'Create list'.
 
-Step 3: Tag the collection
+Step 3: Mapping
 ----------
+
+Run Hisat2 with the following parameters.
+1. Reference Genome: Zebrafish May 2017 (GRCz11 / danRer11) danRer11
+2. Is this a single or paired library: Paired end dataset collection
+3. Paired Collection: Experiment
+4. Summary options: Print alignment summary to a file.: 'Yes'
+5. Advanced options:
+  + Scoring options: Specify Scoring options.
+    + Allow soft-clipping: Yes
+  + Spliced alignment options: Specify Spliced alignment options
+    + GTF file with known splice sites: danRer11.refGene.gtf.gz (your chosen gtf file from UCSC)
+
+Step 4: Read counting
+--------
 
 
 
