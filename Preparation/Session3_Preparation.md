@@ -1,4 +1,4 @@
-In this session, we will perform detailed analysis of RNA-Seq. count data and perform  
+In this session, we will perform detailed analysis of RNA-Seq. count data and provide an introduction to ATAC-Seq. analysis 
 
 RNA-Seq. Analysis
 ==================================
